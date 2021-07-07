@@ -32,8 +32,9 @@ Coding & CSS, That's all I could say.
 
 - Model: ASUS K53E-SX519R
 
-- OS: win8.1 (main) 
-    - win10[1607] (second)
+- OS: win7home premium (main) 
+    - win7super nano (second)
+    - win11 (third)
 - CPU: Intel(R) Pentium(R) CPU B950 @ 2.10GHz
     - GPU: Intel HD Graphics 3000
 
@@ -42,7 +43,9 @@ Coding & CSS, That's all I could say.
 - SSD: Critical 230 GB
     - HDD: Seagate 530 GB
 
-- Theme: Classic [win10]
+- Theme: win3.1 [win7hp]
+         ADOBULATED [win7supernano]
+         neatx [win11]
 
 - Monitor: Samsung 23" [1920x1080] 
     - w/o Monitor: 1366x768
